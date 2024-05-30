@@ -1,4 +1,4 @@
-package BTrees;
+package DS.BinaryTrees;
 
 public class SubTreeOfAnotherTree {
 
